@@ -1,0 +1,108 @@
+body 
+{
+    margin: auto;
+    padding: 0;
+}
+.nav
+{
+    display: flex;
+    
+}
+.nav-logo
+{
+    padding-top: -20px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.nav-menu 
+{
+    text-align: center;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 36px;
+}
+.about
+{
+    padding-left: -20px;
+}
+.team
+{
+    padding-left: 40px;
+}
+.contact
+{
+    padding-left: 40px;
+}
+.partner
+{
+    padding-left: 40px;
+}
+.programs
+{
+    padding-left: 40px;
+}
+.join
+{
+    padding-left: 40px;
+}
+.btn:hover
+{
+    color: white;
+}
+.container
+{
+    background-color: #d6e5ee;
+    padding-top: -30px;
+}
+section
+{
+    padding-left: 550px;
+}
+.b-image
+{
+    height: 220px;
+    width: 225px;
+    border-radius: 100px;
+    border: 0;
+}
+.btn
+{
+    height: 40px;
+    color: blue;
+    background-color: #d6e5ee;
+    border-radius: 30px;
+    border: 0;
+    width: 120px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.ctn
+{
+    padding-left: 100px;
+}
+.h4
+{
+    font-size: larger;
+    padding-left: 500px;
+}
+
+ion-icon 
+{
+    font-size: 48px;
+    color: blueviolet;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.footer 
+{
+    margin-top:2px;
+    height: 400px;
+    background: rgb(14, 13, 13);
+    color: #fff;
+    width: auto;
+}
+.footer-header {
+    display: flex;
+    padding-left: 40px;
+    padding-top: 30px;
+}
